@@ -1,4 +1,4 @@
-<?php /* Telegram : @Mosi_Dev */
+<?php /* Telegram : @iborn */
 
 define('API_KEY','توکن ربات');
 
